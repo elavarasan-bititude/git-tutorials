@@ -2,19 +2,7 @@ Website
 A website is a collection of web pages and related content that is identified by a common domain name and published on at least one web server.
 •	Static
 •	Dynamic
-Internet
-The Internet is a vast network that connects computers all over the world. Through the Internet, people can share information and communicate from anywhere with an Internet connection.
-•	DSL (digital subscriber line)
-•	cable broadband.
-•	fibre optic broadband.
-•	wireless or Wi-Fi broadband.
-•	satellite and mobile broadband.
-•	dedicated leased line.
 
-LAN - Local Area Network. WLAN - Wireless Local Area Network. WAN - Wide Area Network. MAN - Metropolitan Area Network.
-
-WWW
-WWW stands for World Wide Web. A technical definition of the World Wide Web is : all the resources and users on the Internet that are using the Hypertext Transfer Protocol (HTTP). The World Wide Web is the universe of network-accessible information, an embodiment of human knowledge.
 HTTP
 "Hypertext Transfer Protocol." HTTP is the protocol used to transfer data over the web. It is part of the Internet protocol suite and defines commands and services used for transmitting webpage data. The HTTP server is typically a web host running web server software, such as Apache or IIS.
 DNS
