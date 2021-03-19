@@ -3,15 +3,14 @@ A website is a collection of web pages and related content that is identified by
 •	Static
 •	Dynamic
 
-HTTP
-"Hypertext Transfer Protocol." HTTP is the protocol used to transfer data over the web. It is part of the Internet protocol suite and defines commands and services used for transmitting webpage data. The HTTP server is typically a web host running web server software, such as Apache or IIS.
+.
 DNS
 An application layer protocol defines how the application processes running on different systems, pass the messages to each other.
 o	DNS stands for Domain Name System.
 o	DNS is a directory service that provides a mapping between the name of a host on the network and its numerical address.
 o	DNS is required for the functioning of the internet.
 o	Each node in a tree has a domain name, and a full domain name is a sequence of symbols specified by dots.
-DNS NAMES
+
  
 WEB BROWSER
 A web browser is a software application for accessing information on the World Wide Web. When a user requests a web page from a particular website, the web browser retrieves the necessary content from a web server and then displays the page on the user's device.
